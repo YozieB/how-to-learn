@@ -290,9 +290,6 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
-
-.footer__column-content_copyright {
   flex-basis: 711px;
 }
 
