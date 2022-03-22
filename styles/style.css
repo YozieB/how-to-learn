@@ -180,6 +180,11 @@ html {
   font-size: 18px;
 }
 
+.table__text-quote {
+  display: block;
+  margin-top: 20px;
+}
+
 /* Feynman styles */
 
 .feynman {
