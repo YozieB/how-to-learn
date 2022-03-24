@@ -222,7 +222,6 @@ html {
   position: absolute;
   right: 48px;
   top: 50%;
-  transform: translateY(-50%);
   line-height: 51px;
   font-size: 36px;
   font-weight: 400;
